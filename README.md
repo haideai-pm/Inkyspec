@@ -37,6 +37,3 @@ inkyspec/
 └── archive/          # 历史墙：已合并的变更记录
 
 我们欢迎任何关于“如何让 Spec 更易读”、“如何让 AI 更好理解业务”的讨论。
-
-License: MIT
-Author: hua
